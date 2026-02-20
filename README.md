@@ -2,6 +2,8 @@
 
 A simple and interactive web application for encrypting and decrypting text using Caesar cipher algorithm. This tool allows you to encode your messages with customizable shift values and visualize how the cipher works.
 
+Here's a demo where you can try it out: https://opcodexe-dev.github.io/caesar-cipher-tool/
+
 ## Features
 
 The tool comes with several features that makes it easy to use:
